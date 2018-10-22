@@ -1,0 +1,5 @@
+Primeiramente desenvolvi a página "index.html" utilizando a estrutura do bootstrap, deixando meu formulário com uma aparência mais amigável. 
+Após alguns testes eu refiz o projeto e desenvolvi o arquivo "cadastro.html" onde se trata de uma página mais básica.
+Utilizei o XAMPP v3.2.2 para criar um banco de dados lá no "phpmyadmin".
+Tive certa dificuldade para trabalhar com banco de dados pois não trabalho com isso a muito tempo, o que me leva a estudar mais sobre o assunto.
+Isso tudo foi até onde consegui desenvolver sozinho no tempo em que tive disponível.
